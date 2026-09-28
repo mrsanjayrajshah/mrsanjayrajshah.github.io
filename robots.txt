@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mrsanjayrajshah.github.io/sitemap.xml
